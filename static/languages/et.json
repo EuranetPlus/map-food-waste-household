@@ -1,13 +1,18 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju toidujäätmeid kodumajapidamised tekitavad?",
+  "subtitle": "EL 27 leibkondades tekkis 2023. aastal keskmiselt 69 kg toidujäätmeid inimese kohta, kusjuures Portugalis registreeriti kõrgeim tase – 122 kg inimese kohta, järgnesid Rumeenia 103 kg ja Itaalia 98 kg, samas kui Hispaanias oli madalaim näitaja – 26 kg.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "extraInfo_EL": "Hinnanguline väärtus",
+  "extraInfo_ES": "Definitsioon erineb",
+  "extraInfo_HR": "Hinnanguline väärtus",
+  "extraInfo_CY": "Hinnanguline väärtus",
+  "extraInfo_PT": "Hinnanguline väärtus",
+  "extraInfo_SK": "Hinnanguline väärtus",
+  "extraInfo_SE": "Hinnanguline väärtus",
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "kg elaniku kohta",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
