@@ -1,13 +1,18 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek maisto atliekų pagamina namų ūkiai?",
+  "subtitle": "2023 m. ES 27 namų ūkiai vidutiniškai sugeneravo 69 kg maisto atliekų vienam gyventojui. Didžiausias kiekis buvo užfiksuotas Portugalijoje – 122 kg vienam gyventojui, po jos sekė Rumunija (103 kg) ir Italija (98 kg), o mažiausias – Ispanijoje – 26 kg.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_EL": "Apskaičiuota vertė",
+  "extraInfo_ES": "Apibrėžimas skiriasi",
+  "extraInfo_HR": "Apskaičiuota vertė",
+  "extraInfo_CY": "Apskaičiuota vertė",
+  "extraInfo_PT": "Apskaičiuota vertė",
+  "extraInfo_SK": "Apskaičiuota vertė",
+  "extraInfo_SE": "Apskaičiuota vertė",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "kg vienam gyventojui",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
