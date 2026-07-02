@@ -1,13 +1,18 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket matavfall producerar hushållen?",
+  "subtitle": "Hushållen i EU27 genererade i genomsnitt 69 kg matsvinn per person år 2023, där Portugal hade den högsta nivån på 122 kg per capita, följt av Rumänien med 103 kg och Italien med 98 kg, medan Spanien hade det lägsta värdet på 26 kg.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_EL": "Uppskattat värde",
+  "extraInfo_ES": "Definitionen skiljer sig åt",
+  "extraInfo_HR": "Uppskattat värde",
+  "extraInfo_CY": "Uppskattat värde",
+  "extraInfo_PT": "Uppskattat värde",
+  "extraInfo_SK": "Uppskattat värde",
+  "extraInfo_SE": "Uppskattat värde",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "kg per capita",
   "tooltipExtraInfoLabel": "Klicka här"
 }
